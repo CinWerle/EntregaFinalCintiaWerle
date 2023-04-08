@@ -1,0 +1,36 @@
+[
+    {
+      "nombre": "Cheeseburger" ,
+      "precio": 1300 ,
+      "img"  : "./img/menu/cheesseburger.webp",
+      "detalle": "Hamburguesa con queso"
+    },
+    {
+        "nombre": "American Burger" ,
+        "precio": 1500,
+        "img"  : "./img/menu/stacker.webp",
+        "detalle": "Lechuga, tomate y cebolla" 
+      },
+      {
+        "nombre": "Crispy" ,
+        "precio": 1600 ,
+        "img"  : "./img/menu/whopper.webp",
+        "detalle": "Cebolla Crispy y bacon"
+      },
+      
+      {
+        "nombre": "Bacon" ,
+        "precio": 1700 ,
+        "img"  : "./img/menu/pollo.webp",
+        "detalle": "Bacon y queso cheddar"
+      },
+      {
+        "nombre": "Triple queso" ,
+        "precio": 1350,
+        "img"  : "./img/menu/stacker.webp",
+        "detalle" : "Cheddar x3 "
+      }
+    
+  
+  
+  ]
